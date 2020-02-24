@@ -41,7 +41,6 @@
     "@storybook/core": "6.0.0-alpha.19",
     "@storybook/node-logger": "6.0.0-alpha.19",
     "@svgr/webpack": "^5.1.0",
-    "@types/webpack-env": "^1.15.1",
     "babel-plugin-add-react-displayname": "^0.0.5",
     "babel-plugin-named-asset-import": "^0.3.1",
     "babel-plugin-react-docgen": "^4.1.0",
@@ -59,7 +58,8 @@
   "devDependencies": {
     "@types/mini-css-extract-plugin": "^0.9.0",
     "@types/node": "^13.5.3",
-    "@types/webpack": "^4.41.0"
+    "@types/webpack": "^4.41.0",
+    "@types/webpack-env": "^1.15.1"
   },
   "peerDependencies": {
     "@babel/core": "^7.0.1",
